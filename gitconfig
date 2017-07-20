@@ -1,7 +1,7 @@
 [user]
-  name = Todd Mohney
-  email = toddmohney@gmail.com
-  signingkey = 719AF55A93125AFF
+  name = Charles Crain
+  email = craincharles@gmail.com
+  signingkey = 78701FF5
 [log]
   abbrevCommit = true
 [format]
@@ -43,4 +43,6 @@
 [commit]
   gpgsign = true
 [gpg]
-  program = gpg2
+  program = gpg
+[credential]
+	helper = store

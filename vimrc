@@ -45,6 +45,7 @@ Plugin 'sjl/vitality.vim'                           " Make Vim play nicely with 
 Plugin 'slim-template/vim-slim.git'                 " Makes working with Slim templates tolerable
 " Plugin 'tpope/vim-abolish'                          " easily search for, substitute, and abbreviate multiple variants of a word
 Plugin 'tpope/vim-bundler'                          " makes source navigation of bundled gems easier
+Plugin 'nbouscal/vim-stylish-haskell'               " stylish haskell on save
 " Plugin 'tpope/vim-cucumber'                         " provides syntax highlightling, indenting, and a filetype plugin
 Plugin 'tpope/vim-endwise'                          " wisely add 'end' in ruby, endfunction/endif/more in vim script, etc
 Plugin 'tpope/vim-fugitive'                         " Git plugin
