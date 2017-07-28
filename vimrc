@@ -33,6 +33,7 @@ Plugin 'elmcast/elm-vim'                            " elm syntax highlighting an
 Plugin 'godlygeek/tabular'                          " dependency of vim-markdown
 Plugin 'kana/vim-textobj-user'                      " dependency for rubyblock
 Plugin 'kien/ctrlp.vim'                             " Fuzzy file, buffer, mru, tag, etc finder
+Plugin 'w0rp/ale'                                   " Asynchronous Lint Engine
 " Plugin 'majutsushi/tagbar'                          " displays tags in a window, ordered by scope
 " Plugin 'mustache/vim-mustache-handlebars'           " mustache and handlebars mode
 Plugin 'nelstrom/vim-textobj-rubyblock'             " custom text object for selecting Ruby blocks
